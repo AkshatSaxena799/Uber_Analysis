@@ -8,5 +8,5 @@ In this notebook we will analyze " My Uber Rides 2016 dataset" and try to find t
 ->Total Miles: 12,204
 ->Dataset: The dataset contains Start Date, End Date, Start Location, End Location, Miles Driven and Purpose of drive (Business, Personal, Meals, Errands, Meetings, Customer Support etc.)
 
-**Acknowledgements & References:** Users are allowed to use, download, copy, distribute and cite the dataset for their pet projects and training. Please cite it as follows: **“My Uber Drives Dataset, Kaggle Dataset Repository, March 23, 2017.”
-**
+**Acknowledgements & References:** Users are allowed to use, download, copy, distribute and cite the dataset for their pet projects and training. 
+Please cite it as follows: **My Uber Drives Dataset, Kaggle Dataset Repository, March 23, 2017.**
