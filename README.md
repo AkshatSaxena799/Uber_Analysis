@@ -1,5 +1,6 @@
 # Uber_Analysis_Akshat_Saxena
-In this notebook we will analyze " My Uber Rides 2016 dataset" and try to find the hidden relationships among Time( Date), Miles , Purpose , start location, end location, and categories.
+In this notebook I have analyzed "My Uber Rides 2016 dataset" and tried finding the hidden relationships among Time( Date), Miles , Purpose , start location, end location, and categories.
+
 **Content:**
 ->Geography: USA, Sri Lanka and Pakistan
 ->Time period: January - December 2016
